@@ -5,7 +5,7 @@
 
 O "Front-End Meet-Up Group" é um projeto que nasceu da necessidade de unir os desenvolvedores Front-End de São Paulo, e então tornou-se uma idéia coletiva, para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado.
 
-O evento **NÃO** pode visar o lucro de um ou mais organizadores. É igualmente restritivo a prática de qualquer preconceito em relação a qualquer pessoa que tenha interesse de aprender ou tecnologia.
+O evento **NÃO** pode visar o lucro de um ou mais organizadores. É igualmente restritivo a prática de qualquer preconceito em relação a qualquer pessoa que tenha interesse de aprender ou qualquer tecnologia.
 
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
@@ -13,7 +13,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
 Por se tratar de um grupo de encontros marcados pela regionalidade e proximidade, é interessante utilizar uma nomenclatura que remeta o local de onde será feito o mesmo.
 
-No caso de São Paulo, o grupo se chama "FEMUG-SP", que é a sigla para "São Paulo", nome da cidade E do estado. Poderá ser criado, por exemplo o "FEMUG-CPS" ou "FEMUG-CAMPINAS", mas nunca será aprovada a criação de dois FEMUG para a mesma região. A intenção dos grupos é AGREGAR conhecimento e pessoas, e não separar. Caso haja divergências ideológicas entre membros de um grupo, é recomendado a solução da mesma. Um grupo NUNCA deve ser prejudicado pela diferência da minoria.
+No caso de São Paulo, o grupo se chama "FEMUG-SP", que é a sigla para "São Paulo", nome da cidade E do estado. Poderá ser criado, por exemplo o "FEMUG-CPS" ou "FEMUG-CAMPINAS", mas nunca será aprovada a criação de dois FEMUG para a mesma região (FEMUG-SP é o capítulo estadual, automaticamente, também o capítulo da cidade que é a capital). A intenção dos grupos é AGREGAR conhecimento e pessoas, não separar. Caso haja divergências ideológicas entre membros de um grupo, é recomendado a solução da mesma. Um grupo NUNCA deve ser prejudicado pela diferênça da minoria.
 
 Caso seja criado um grupo para todo o estado, o mesmo deverá ter como sede a capital do mesmo. Por exemplo: "FEMUG-RS" deverá ter como base, Porto Alegre. Para "FEMUG-MG", a base seria Belo Horizonte e assim por diante. Para um "FEMUG-ACRE", o servidor deverá retornar um erro [HTTP 404](http://instantrimshot.com).
 
@@ -23,11 +23,36 @@ O encontro deve contar com um meio comum de comunicação, sendo este uma lista 
 
 A lista de e-mail deve ter uma média de três a quatro managers para cada cem pessoas. A função desses managers é basicamente manter os bons modos e um fluxo coeso de novos membros, aprovando sua entrada, julgando ponderadamente a chance de excluir alguém da lista, caso haja intenção de propaganda indesejada, insistência em tópicos delicados ou falta de respeito de qualquer forma, com um ou mais membros.
 
-O encontro deve a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.
+O encontro deve ter a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.
 
 ### Temas do encontro
 
 Cada encontro deve ter seu tema decidido previamente pelo grupo, abrindo para sugestões de temas com até uma semana antes do encontro acontecer, e ser decidido em até dois dias antes do mesmo. Para isso, será recomendado uma ferramenta de enquete, para que seja feito algo democrático.
+
+### Ata do encontro
+
+A ata do encontro é um e-mail com tópicos, para compartilhar entre todos os participantes temas abordados, referências e links relevantes.
+
+Abaixo, um exemplo de ata usado para o *FEMUSP #3*:
+
+> Pessoal,
+
+> O FEMUSP #3 foi baseado quase que inteiro conversado sobre acessibilidade. Foi diferente das duas edicoes anteriores (que tambem foram diferentes entre si). Foi so papo, sem codigo. E eu ate que gostei :)
+
+> Aqui, os topicos que anotei durante o papo:
+
+> - [Filament Group](http://filamentgroup.com/)
+> - [Acessibilidade W3C](http://www.w3.org/standards/webdesign/accessibility)
+> - [BackboneJS](http://backbonejs.org/)
+> - [Backbone Boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate)
+> - [jQuery Source Code](https://github.com/jquery/jquery)
+> - [EmberJS](http://emberjs.com/)
+> - [TodoMVC](http://todomvc.com/)
+
+> Se alguem lembrar de mais algo que falamos, e so mandar. 
+
+> Abraco e, mais uma vez, valeu por todo mundo participar :)
+
 
 ### Local
 
@@ -45,9 +70,11 @@ Os campos exigidos geralmente são:
 
 * Nome completo
 * E-mail
-* Document com foto (para controle na portaria das empresas)
+* Documento com foto (para controle na portaria das empresas)
 
 **IMPORTANTE**: Para a empresa anfitriã, envie APENAS o nome do participante e o documento, quando necessário. A privacidade dos participantes é algo que devemos zelar por obrigação, e como procedimento padrão.
+
+Ainda, caso  a empresa tenha fornecido o espaço livre de custos, e faz questão de ter a lista de e-mail de todos que participaram, a mesma deve ficar explícita para cada participante que seu e-mail será compartilhado e, fazendo a inscrição este concorda com o este termo.
 
 
 ![Os sete passos da execução de uma reunião do FEMUG](http://i.imgur.com/3b5eomV.png)
@@ -68,7 +95,7 @@ No formulário de questões do FEMUSP (encontro que originou o FEMUG), existem a
 * Qual o site da sua empresa?
 * Quantas pessoas sua sala de reuniões ou auditório comporta?
 * Onde fica sua empresa? (Endereço e referências)
-* Tem conexão wi=fi para os participantes?
+* Tem conexão wi-fi para os participantes?
 * Sua empresa pode ceder um café para uma pausa, para todos os participantes?
 * Quais dias da semana você prefere que o encontro seja realizado?
 * Em qual horário?
@@ -81,8 +108,25 @@ No formulário de questões do FEMUSP (encontro que originou o FEMUG), existem a
 Uma vez que uma empresa concorde em ceder um espaço, geralmente a mesma costuma ceder o café com comes e bebes para todos os participantes. Caso o mesmo não ocorra, você pode buscar uma empresa para patrocinar o mesmo, ou até mesmo rachar entre todos os participantes que concordarem. Tudo depende do público e das empresas envolvidas.
 
 
+## Índice FEMUG
 
+Antes de criar um novo FEMUG, confira se já existe um em sua cidade no [índice FEMUG](http://github.com/braziljs/femug/indice.md). Caso exista, junte-se a ele, não crie um novo. As comunidades devem se unir, e não capilarizar. Acredito que uma cidade é um bom delimitador para não crescermos desorganizadamente.
+
+Abaixo, um exemplo de como preencher o índice.
+
+-----
+## FEMUG-SP
+```
+Lista         : http://bit.ly/FEMUG-SP
+Form Anfitrião: http://bit.ly/FEMUG-SP-ANF
+Capítulo      : Estadual
+Sede          : São Paulo, SP
+Responsável   : Daniel Filho
+Moderadores   : Jaydson Gomes
+                Felipe Nascimento
+```
+-----
 
 # IMPORTANTE:
 
-Este documento é "vivo" e será alterado com frequência. Sendo assim, recomendamos que fique sempre de olho para manter seu grupo sempre atualizado com as normas que visam única e exclusivamente, um encontro saudável para todos os envolvidos.
+*Este documento é "vivo" e será alterado com frequência. Sendo assim, recomendamos que fique sempre de olho para manter seu grupo sempre atualizado com as normas que visam única e exclusivamente, um encontro saudável para todos os envolvidos.*
