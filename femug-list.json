@@ -1,0 +1,27 @@
+{
+  "femug": {
+    "FEMUG-BR": [{
+      "capitulo": "nacional",
+      "sede": "Brasil",
+      "regiao": "Brasil",
+      "url": "http://bit.ly/FEMUG-BR",
+      "fundador": "Daniel Filho",
+      "moderadores": [
+        "Jaydson Gomes",
+        "Felipe Nascimento"
+      ]
+    }],
+    "FEMUG-SP": [{
+      "capitulo": "estadual",
+      "sede": "São Paulo, SP",
+      "url": "http://bit.ly/FEMUG-SP",
+      "formulario-anfitriao": "http://bit.ly/FEMUG-SP-ANF",
+      "fundador": "Daniel Filho",
+      "moderadores": [
+        "Daniel Filho",
+        "Miller Medeiros",
+        "Rafael Lyra"
+      ]
+    }]
+  }
+}
