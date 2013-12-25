@@ -1,0 +1,25 @@
+# Como contribuir com o projeto
+
+## Colaborando
+
+Não faça um **Pull Request** sem antes abrir uma [**Issue**](./issues/). Por se tratar de um projeto que nada mais é que um documento, gostariamos de conversar antes de inserir ou retirar algo do documento principal.
+
+Ao decidir abrir novas [**Issues**](./issues/), verifique se já não existe alguma que cobre o assunto que você quer abordar.
+
+## Criando um FEMUG
+
+Leia a documentação por completo. Caso já tenha lido, o faça novamente. Lá explica cada passo que deverá ser tomado.
+
+## Dúvidas pertinentes
+
+### Encontrei um erro de português
+
+Abra uma [**Issue**](./issues/) apontando onde está o erro.
+
+### Tive uma idéia, quero sugerer
+
+Abra uma [**Issue**](./issues/) sugerindo ali, e então começamos uma conversa pra modelar essa nova idéia e incorporar ao documento principal, se for o caso.
+
+### Não concordo com um ou mais pontos
+
+Abra uma [**Issues**](./issues/) explicando o seu ponto de vista, então começamos uma conversa pra modelar essa alteração e incorporar ao documento principal, se for o caso.
