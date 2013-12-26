@@ -83,7 +83,7 @@ Este documento foi criado em cima da experiência adquirida na organização do 
 
 ### Como criar um FEMUG?
 
-Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/braziljs/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [README.md](https://github.com/braziljs/femug/blob/master/README.md), [LISTA.md](https://github.com/braziljs/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/braziljs/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
+Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/braziljs/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/braziljs/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/braziljs/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
 
 Este irá para avaliação do pessoal da Fundação BrazilJS e entraremos em contato contigo, assim que todas as informações forem aprovadas.
 
