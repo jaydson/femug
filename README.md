@@ -19,7 +19,7 @@ Caso seja criado um grupo para todo o estado, o mesmo deverá ter como sede a ca
 
 ## Formato
 
-O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
+O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](https://github.com/braziljs/femug/blob/master/README.md#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
 
 A lista de e-mail deve ter uma média de três a quatro managers para cada cem pessoas. A função desses managers é basicamente manter os bons modos e um fluxo coeso de novos membros, aprovando sua entrada, julgando ponderadamente a chance de excluir alguém da lista, caso haja intenção de propaganda indesejada, insistência em tópicos delicados ou falta de respeito de qualquer forma, com um ou mais membros.
 
@@ -80,6 +80,14 @@ Ainda, caso  a empresa tenha fornecido o espaço livre de custos, e faz questão
 ![Os sete passos da execução de uma reunião do FEMUG](http://i.imgur.com/3b5eomV.png)
 
 Este documento foi criado em cima da experiência adquirida na organização do então FEMUSP (que se tornou FEMUG-SP).
+
+### Como criar um FEMUG?
+
+Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/braziljs/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/braziljs/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/braziljs/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
+
+Este irá para avaliação do pessoal da Fundação BrazilJS e entraremos em contato contigo, assim que todas as informações forem aprovadas.
+
+O aceite de seu capítulo será feito pelo *merge* de seu *pull request* no repositório do projeto. As discussões, recusas ou aprovações serão feitas nos comentários do *pull request*, de forma aberta para todos os interessados.
 
 ## Dicas
 

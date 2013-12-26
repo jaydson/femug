@@ -18,7 +18,7 @@ Form Anfitrião: http://bit.ly/FEMUG-SP-ANF
 Capítulo      : Estadual
 Sede          : São Paulo, SP
 Responsável   : Daniel Filho
-Moderadores   : Jaydson Gomes
-                Felipe Nascimento
+Moderadores   : Miller Medeiros
+                Rafael Lyra
 ```
 -----
