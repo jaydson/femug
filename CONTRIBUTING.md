@@ -1,5 +1,9 @@
 # Como contribuir com o projeto
 
+## IMPORTANTE
+
+Antes de criar uma *issue*, enviar um *pull request* ou fazer qualquer interação com o projeto, POR FAVOR, leia o documento por completo.
+
 ## Colaborando
 
 Não faça um **Pull Request** sem antes abrir uma [**Issue**](./issues/). Por se tratar de um projeto que nada mais é que um documento, gostaríamos de conversar antes de inserir ou retirar algo do documento principal.
